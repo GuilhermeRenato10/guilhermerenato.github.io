@@ -1,0 +1,48 @@
+body {
+    background-color: beige;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title-style {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#foto-perfil {
+    margin-left: -40px;
+}
+
+header > h1 {
+    width: 480px;
+}
+
+header > h2 {
+    width: 120px;
+}
+
+ul {
+   list-style-type: none;
+   margin-left: -40px;
+}
+
+a.links {
+    text-decoration: none;
+}
+
+#about-myself {
+    width: 150px;
+}
+
+#graduation {
+    width: 280px;
+}
+
+#experiences {
+    width: 200px;
+}
+
+#skills {
+    width: 150px;
+}
